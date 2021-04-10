@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Databases-Stanford}/Relational-Databases-and-SQL/rating.db",
+            "name": "rating"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
